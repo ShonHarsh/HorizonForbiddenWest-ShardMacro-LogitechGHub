@@ -14,7 +14,7 @@ The process works because the Whisper Hunter Bow can be sold for 250 metal shard
 ### See it in action
 
 <video controls autoplay loop>
-  <source src="https://shonharsh.github.io/curriculum-vitae/videos/HFW-WHB-0480.mp4" height="0852" width="0480" type="video/mp4">
+  <source src="https://shonharsh.github.io/curriculum-vitae/videos/HFW-WHB-0480.mp4" type="video/mp4">
 </video>
 
 ### Requirements
