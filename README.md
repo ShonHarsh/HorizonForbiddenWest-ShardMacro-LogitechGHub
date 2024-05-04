@@ -10,7 +10,7 @@ This document describes how to create the macro on any Logitech device that is a
 The process works because the Whisper Hunter Bow can be sold for 250 metal shards and then bought for 149 metal shards.  Each time this is done 101 metal shards is gained.
 
 ### See it in action
-
+//Still debugging - The video here displays locally but not in GitHub
 <video controls="" height="480" width="852" muted loop autoplay>
   <source src="https://shonharsh.github.io/curriculum-vitae/images/HFW/HFW-WHB-0480.mp4" type="video/mp4">
 </video>
