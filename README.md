@@ -48,36 +48,36 @@ I recommend getting all of the clicks and keys mapped and not worry about the de
 
 ![MacroMap](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-Macro-MacroMap.png)
 
-9. Save.  The hard part is done; good show!
-10. Put the macro on a G key by dragging it to a G key. Note that this is a toggle so the same key will start and stop the macro.
+9. **Save**.  The hard part is done; good show!
+10. Put the macro on a **G key** by dragging it to a G key. Note that this is a toggle so the same key will start and stop the macro.
 
 ### Horizon Forbidden West
-1. Obtain the Whisper Hunter Bow.
-2. Travel to Barren Light.  This could be completed at any merchant but I have tested it several times at the hunter merchant in Barren Light.
+1. **Obtain** the [Whisper Hunter Bow](https://horizon.fandom.com/wiki/Whisper_Hunter_Bow).
+2. **Travel** to [Barren Light](https://horizon.fandom.com/wiki/Barren_Light?so=search).  This could be completed at any merchant but I have tested it several times at the hunter merchant in Barren Light.
 
 ![BarrenLight](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-BarrenLight.png)
 
-3. Unequip all weapons except the bow and spear as it is cannot be removed.  I removed all my gear just to try and reduce risk factors however upon further testing the macro, only the hunter bows are required to be removed.
+3. **Unequip** all weapons except the bow and spear as it is cannot be removed.  I removed all my gear just to try and reduce risk factors however upon further testing the macro, only the hunter bows are required to be removed.
 
-4. Visit the stash and put in all weapons except for the bow and spear.  The purpose is to not have other options at the merchant.
+4. Visit the stash and **store** all weapons except for the bow and spear.  The purpose is to not have other options at the merchant.
 
 ![Stash](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-Macro-Stash.png)
 
-5. Visit the hunter merchant next to the stash.  This is where the transactions will take place.
-6. Select the sell tab at the top.
-7. Hover the mouse over the hunter bow.
-8. Toggle the macro on with the previously defined step from #10 in the Create Macro section above.
+5. Visit the hunter **merchant** next to the stash.  This is where the transactions will take place.
+6. Select the **sell tab** at the top.
+7. **Hover** the mouse over the hunter bow.
+8. **Toggle** the macro on with the previously defined step from #10 in the Create Macro section above.
 
 ![Macro-WHB](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-Macro-WHB.gif)
 
-9. Take a short break; send a note of encouragement to someone, watch a bird outside for a while or something refreshing.
-10. When you have enough shards, toggle off the macro again with the same G key used to activate it.  The macro will finish the cycle it is on before stopping so be sure to wait until the cycle is complete.
+9. Take a short **break**; send a note of encouragement to someone, watch a bird outside for a while or something refreshing.
+10. When you have enough shards, **toggle off** the macro again with the same G key used to activate it.  The macro will finish the cycle it is on before stopping so be sure to wait until the cycle is complete.
 
 ![ThankYou](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-Macro-ThankYou.jpg)
 
 ### Contribute
 
-Show your support for Aloy and contribute your name to this repository list. Add your name to the Contributors.md file and create a pull request.
+Show your support for Aloy (and me) and **contribute** your name to this repository list. Add your name to the Contributors.md file and create a pull request.
 Instructions can be found by looking at the repository that gave me inspiration. https://github.com/ShonHarsh/first-contributions
 
 "The strength to stand alone, Aloy, is the strength to make a stand. To serve a purpose greater than yourself. That is the lesson you must learn."
