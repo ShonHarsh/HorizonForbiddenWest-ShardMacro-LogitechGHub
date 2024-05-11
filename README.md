@@ -23,6 +23,7 @@ The process works because the Whisper Hunter Bow can be sold for 250 metal shard
 
 ### Create Macro
 1. To create the macro open the **Logitech G-Hub** software.
+
 ![BannerLogitech](https://raw.githubusercontent.com/ShonHarsh/HorizonForbiddenWest-ShardMacro-LogitechGHub/main/images/HFW-Banner-GHub.png)
 
 2. Select your **device**.  This example is using the keyboard but mice can also work.
