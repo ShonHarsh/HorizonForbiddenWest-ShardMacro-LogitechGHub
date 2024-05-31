@@ -17,7 +17,7 @@ The process works because the Whisper Hunter Bow can be sold for 250 metal shard
 ### Requirements
 
 1. Horizon Forbidden West on PC.
-2. Progression in the game up to [Barren Light](https://horizon.fandom.com/wiki/Barren_Light?so=search) and obtaining the [Whisper Hunter Bow](https://horizon.fandom.com/wiki/Whisper_Hunter_Bow).  By the time the bow can be obtained, Barren Light will have been discovered.
+2. Progression in the game up to [Barren Light](https://horizon.fandom.com/wiki/Barren_Light?so=search) and obtaining the [Whisper Hunter Bow](https://horizon.fandom.com/wiki/Whisper_Hunter_Bow).
 3. The [Logitech G Hub Software](https://www.logitechg.com/en-us/innovation/g-hub.html) is required to map the macro.  I have read that some creative people have been able to use the G Hub software without a Logitech device but I have not tried that.  If you are thinking of going that route I would recommend just looking up the Arena Duplication method.  It requires a bit more work but results in many metal shards.
 4. A way to record and run the macro.  I am using the G915 keyboard.
 
