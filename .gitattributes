@@ -1,1 +1,8 @@
+# Automatically normalize line endings for text files
+* text=auto
+
+# Markdown Linguist Overrides
 *.md linguist-detectable=true
+*.md linguist-documentation=false
+*.md linguist-generated=false
+*.md linguist-vendored=false
